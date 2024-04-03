@@ -26,6 +26,6 @@ To get a local copy up and running, follow these simple steps:
 
 ## Screenshots
 
-![Portfolio Screenshot](/screenshots/portfolio.png)
+![Portfolio Screenshot](/sample_output.png)
 
 
