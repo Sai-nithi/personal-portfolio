@@ -23,6 +23,7 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repository:
 
 2. Open the `index.html` file in your web browser to view the portfolio.
+3. Include your certificates and resume in the assets folder
 
 ## Screenshots
 
